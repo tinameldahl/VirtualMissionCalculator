@@ -17,6 +17,6 @@
       }
     }
 
-    let speedButton = document.querySelector(".speedButton");
-    speedButton.addEventListener("click", calculateKm);
+    let kmButton = document.querySelector(".kmButton");
+    kmButton.addEventListener("click", calculateKm);
 
